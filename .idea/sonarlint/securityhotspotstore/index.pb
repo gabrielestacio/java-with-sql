@@ -78,3 +78,19 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61
 Q.idea/sonarlint/securityhotspotstore/9/f/9f596595d7da10207c1c56dbd5f5a436ab3fd793,f\8\f812e81bc2224095b6baed36c857daed2e9ca051
 Å
 Q.idea/sonarlint/securityhotspotstore/a/e/ae4557d16da8eb8060691397c919f15a721d195d,0\9\09a2cca118f94726f97deefd5d852fc80d418705
+P
+ src/db/DbIntegrityException.java,f\f\ffad809862bb971ef4704ee6069241c9bc68b8ba
+ï
+e.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159/storage_v2/_src_/schema/coursejdbc.lg2BlA.meta,1\d\1da97f7d91dd77c1194e29b83b0decdb414c79d5
+ê
+`.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159/storage_v2/_src_/schema/mysql.osA4Bg.meta,b\c\bc7ee76f47d01483e75ad98602e9562ac403564b
+ù
+m.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159/storage_v2/_src_/schema/information_schema.FNRwLQ.meta,d\1\d15d809e9395975aaf2becc901534e9c710ec250
+é
+^.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159/storage_v2/_src_/schema/sys.zb4BAA.meta,d\2\d2f0ba51c780b487586d79e61a6a689142242cfc
+ù
+m.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159/storage_v2/_src_/schema/performance_schema.kIw0nw.meta,f\2\f2fe2e42e3cc24a210b4804f74ca5f7aaf1f6f56
+Å
+Q.idea/sonarlint/securityhotspotstore/f/f/ffad809862bb971ef4704ee6069241c9bc68b8ba,c\b\cbb72c078d26db321560c9638d59e872c28ea0b9
+j
+:.idea/dataSources/7fca093a-a731-445f-ac41-c01cf8138159.xml,5\7\57f30029d5e04c654eddd2ce13bf1d8cce606c0b

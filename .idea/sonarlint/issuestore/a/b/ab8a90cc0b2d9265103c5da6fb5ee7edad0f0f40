@@ -1,5 +1,24 @@
 
-
-java:S1854	">Remove this useless assignment to local variable "connection".(Úøó²8ÎíÍ’ú1J$42039fab-152a-47ad-abd1-6d43860792b9
-r
-java:S1481	"/Remove this unused "connection" local variable.(Úøó²8ÑíÍ’ú1J$f4fe4a50-4c90-4598-9b86-30eebc066ef1
+Š
+java:S2095k"GUse try-with-resources or close this "Statement" in a "finally" clause.(±´„†8ü›–µú1J$3a538c16-79d5-4ee3-a6d1-490ba7dcd2b4
+l	java:S106"+Replace this use of System.out by a logger.(ğ§±\8…œ–µú1J$5dbdc4ae-87e8-45d2-99cc-4c777f983877
+~	java:S125"<This block of commented-out lines of code should be removed.(§¯Œ8‡œ–µú1J$3417d955-ac8b-4753-9313-634b84457f1a
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(Œ„Êßÿÿÿÿÿ8ˆœ–µú1J$337be800-f3b2-4e35-b86c-8cf5f7d40b55
+q
+java:S1481"".Remove this unused "statement" local variable.(­ğï²8ˆœ–µú1J$8934fa1f-c771-403b-b2c7-90ee0372b42e
+d
+java:S1116g"Remove this empty statement.(Åñ­õşÿÿÿÿ8‰œ–µú1J$4b5701d5-dd19-419e-8e12-c8442cf42cfe
+~	java:S125#"<This block of commented-out lines of code should be removed.(½‘Ñ³8Šœ–µú1J$0451445c-4221-4087-a1a0-82980fc1108b
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.(‹ß‡ùÿÿÿÿ8Šœ–µú1J$ebdd8fac-5dc8-43be-871e-c312ef066818
+~	java:S125A"<This block of commented-out lines of code should be removed.(½‘Ñ³8‹œ–µú1J$6115ebd2-3d0f-4b86-8ef0-ec145f0415d5
+~	java:S125S"<This block of commented-out lines of code should be removed.(½‘Ñ³8‹œ–µú1J$4f191914-9e8c-49ef-8b31-b34fe305e4a2
+~	java:S125b"<This block of commented-out lines of code should be removed.(µäŒá8‹œ–µú1J$18489ff4-9d76-41ad-8ede-573237e49e80
+ƒ	java:S125q"<This block of commented-out lines of code should be removed.(ÙœçÔÿÿÿÿÿ8œ–µú1J$d9bc974f-07e0-4596-8a4d-4d3035ae690d
+m	java:S106z"+Replace this use of System.out by a logger.(ø¨¼‹8£×˜µú1J$53499b3b-a809-408e-b299-db254bbc6c79
+r	java:S106{"+Replace this use of System.out by a logger.(€…£¢øÿÿÿÿ8îø˜µú1J$e696568d-fe6f-4177-a869-6c27541e6591
+|
+java:S1128"4Remove this unused import 'db.DbIntegrityException'.(™÷§ÿÿÿÿÿ8‘œ–µú1J$fafd515b-d848-4367-9484-3e4b20043a1d
+x
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8‘œ–µú1J$a177e4a5-080f-46f7-b0bf-3f2bf4cc6fad
+z
+java:S1128	"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8‘œ–µú1J$3061799f-310d-4c6a-8f62-bb9fc89915a2
